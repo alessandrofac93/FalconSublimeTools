@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+class ${1:name}(${2:params}) ${3:from ${4:parent}}
+    $0
+end
+]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.falcon</scope>
+</snippet>

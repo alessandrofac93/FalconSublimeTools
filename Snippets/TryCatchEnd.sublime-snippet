@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+try
+    ${1:try statements]}
+catch
+    ${2:catch statements}
+end
+]]></content>
+    <tabTrigger>try</tabTrigger>
+    <scope>source.falcon</scope>
+</snippet>

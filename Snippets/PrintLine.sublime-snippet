@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+printl(${1:default value})$0
+]]></content>
+    <tabTrigger>pl</tabTrigger>
+    <scope>source.falcon</scope>
+</snippet>
